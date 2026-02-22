@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 once upon a time 
 there were a boy living in the country , the boy was a farmer ...
 
+=======
+
+in one dark stormy day, the boy was working hard in the farm ,, but then ,, something happened .. 
+>>>>>>> part_two
 
